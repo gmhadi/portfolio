@@ -81,9 +81,9 @@
 </table>
 </p>
 <p align="center">
-<a href="https://https://www.linkedin.com/in/abdul-hadi-kureshi-a9226a369/"><img src="https://img.shields.io/badge/-hadi%20Sheikh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://https://www.linkedin.com/in/abdul-hadi-kureshi-a9226a369/"><img src="https://img.shields.io/badge/-Abdul%20Hadi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:maihadihoon@gmail.com"><img src="https://img.shields.io/badge/maihadihoon@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/abdul___hadi___qureshi/"><img src="/>https://img.shields.io/badge/-@abdul___hadi___qureshi-E4405F?style=flat&logo=Instagram&logoColor=white</a>
+<a href="https://www.instagram.com/abdul___hadi___qureshi/"><img src="/>https://img.shields.io/badge/-@abdul___hadi___qureshi-E4405F?style=flat&logo=Instagram&logoColor=white"</a>
  </p>
  
 <br>
